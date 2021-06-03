@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A recommendation of that high and most noble medicine, the essential spirit of scurvey-grass compound; the invention and preparation of the sieur de vernantes, a German born, graduated in physick in those famous universities, Montpelier and Padua in Italy, sometime professor thereof in Leyden in Holland, and chief chymist and physician to that great lover of learning and art, Arch-Duke Leopold; communicated by him to Hen. Clarke chymist and apothecary of London: and by him now prepared and publickly vended for those who are at this day troubled with that most miserable and reigning disease the scurvey.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20390</idno><idno type="EEBO-CITATION">99888668</idno>
+  <idno type="VID">195876</idno>
+  <idno type="EEBO-PROQUEST">2240902067</idno>
+  
+            <idno type="STC">Wing C4459aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[71a]</idno>
+            <idno type="STC">ESTC R231497</idno>
+            <idno type="PROQUEST">ocm99888668</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888668e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195876)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[72])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A recommendation of that high and most noble medicine, the essential spirit of scurvey-grass compound; the invention and preparation of the sieur de vernantes, a German born, graduated in physick in those famous universities, Montpelier and Padua in Italy, sometime professor thereof in Leyden in Holland, and chief chymist and physician to that great lover of learning and art, Arch-Duke Leopold; communicated by him to Hen. Clarke chymist and apothecary of London: and by him now prepared and publickly vended for those who are at this day troubled with that most miserable and reigning disease the scurvey.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) :   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: torn at head, with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:195876:1"/>
+            <head>A RECOMMENDATION <hi>of that High and most Noble Medicine, The Essential</hi> Spirit of Scurvey Grass <hi>Compound;</hi> The INVENTION and <hi>Preparation of the</hi> Sieur de Vernantes, <hi>a</hi> German <hi>born, Graduated in Physick in those famous Universities,</hi> Montpelier <hi>and</hi> Padua <hi>in</hi> Italy, <hi>sometime Professor thereof in</hi> Leyden <hi>in</hi> Holland, <hi>and chief</hi> Chymist <hi>and</hi> Physician to that great Lover of Learning and Art, Arch-Duke LEOPOLD; <hi>Communicated by him to</hi> Hen. Clarke <hi>Chymist and Apo<g ref="char:EOLhyphen"/>thecary of</hi> London: <hi>And by him now</hi> Prepared <hi>and</hi> publickly Vended <hi>for those who are at this day troubled with that most miserable and Reigning Disease the SCURVEY.</hi>
+            </head>
+            <p>WHILST the <hi>Scurvey</hi> was yet but a stranger in this Nation; whilst it Visited only some sorts of People, as Sea-faring Persons, the Inhabi<g ref="char:EOLhyphen"/>tants of the Sea-Coasts, and those whose inconvenient ways of living made them subject to it; whilst the Symptoms were yet more tolerable and con<g ref="char:EOLhyphen"/>fin'd, the Signes plain and apparent, and Physicians not puzled to find out variety of Medicines to Cure it: It was <hi>then</hi> that this Noble Herb call'd <hi>Cochlearia,</hi> or <hi>Spoonwort,</hi> from its <hi>Shape and Figure;</hi> Changed its Name, and was call'd <hi>Scurvey-Grass,</hi> from a peculiar and <hi>specifick Quality</hi> which was found in it to Cure this Disease which the People used diversly according to their <hi>necessity</hi> or <hi>fancy.</hi> But no Preparation of it was found so commodious and useful as the <hi>Spirits</hi> drawn from this Herb, which proved to be of the greatest benefit of any <hi>then</hi> found out. But <hi>when</hi> the <hi>Scurvey</hi> begun to spread it self abroad, <hi>when</hi> it began to Rage, and seize all sorts of People in all places, with violent, malignant and even deadly Symptoms, that neither these Spirits, nor any <hi>ordinary Medicine</hi> could check its fierceness, much less Cure it. It was <hi>then</hi> that the Physicians Wisdom and Skill appeared, in finding out Medicines more active and effectual, and such as might totally vanquish and subdue this dangerous and deadly <hi>Foe to Mankind;</hi> And when the <hi>Single Spirit of Scurvey-Grass</hi> was found too weak to do this <hi>great bu<g ref="char:EOLhyphen"/>siness</hi> it was by the great care of the Physician enriched and strengthned, by the Addition of many more <hi>powerful</hi> and <hi>specifick Materials,</hi> and was made the only <hi>sufficient Remedy</hi> to make a perfect Cure of this malignant and Reigning Dis<g ref="char:EOLhyphen"/>ease, call'd, <hi>The Scurvey.</hi> This is that Noble Spirit, which from the Hand of this <hi>great Artist</hi> above mentioned, I do offer to all who at this day suffer under the <hi>Scurvey,</hi> be the symptoms greater or less. And in truth, <hi>Reader,</hi> you may herein rest secure of the most safe and certain Remedy in the World; which (as it is the <hi>highest Antidote</hi> against the <hi>Scurvey,</hi> so it) is a most excellent Medicine
+<pb facs="tcp:195876:2"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>It Cures the Dropsey even to a wonder, it opens all Ob<g ref="char:EOLhyphen"/>structions whatsoever, it gives wonderful Relief to the Stomach, quickning the dull Appetite, and helps the Digestion and Concoction of the Victuals: It helps Virgins, who through stoppings have lost their colour, and restores the lost Complexion; It expelleth Wind, suppresseth Vapours, helps the Pain and dulness of the Head, ex<g ref="char:EOLhyphen"/>hales all Catarrhs and Rheums, helps Rheumatism and Gout, and also Pains in the Joynts, Griping in the Guts.</hi> And to be short, <hi>it clenseth and sweetens the whole Mass of the Blood, and suffers no matter to reside therein, from whence Diseases may arise;</hi> And preserves the Body in entire and perfect Health, to those who use it constantly and with Temperance; It is to be taken in some good Liquors, such are <hi>Beer, Ale, VVine, Mum,</hi> or the like. But not in <hi>Coffee, Tea,</hi> or such Drinks as are taken so hot, for the Spirit being fine and subtil, the purer part of it va<g ref="char:EOLhyphen"/>nisheth in the stream before it can be drank off; It is equally useful at all seasons of the year; for though the <hi>Spring</hi> and <hi>Fall</hi> are the usual times for Medicine, yet these <hi>Spirits</hi> are no less beneficial at other times; for as in the VVinter they warm the stomach, and give the blood a brisk motion, so in the Summer they keep in the <hi>Spirits</hi> and <hi>natural Heat,</hi> which are apt to suffer by the Heat of the VVea<g ref="char:EOLhyphen"/>ther, especially upon the least Exercise. A larger Account of this, as also of the <hi>Golden Laxaeive Spirit,</hi> and its use, shall be given in the Printed Papers of Di<g ref="char:EOLhyphen"/>rections given with each Bottle. Price 1 s- Seal'd with my Seal at Armes: being <hi>the Three Swords in Fess.</hi> Are sold by
+<list>
+                  <item>
+                     <hi>Mr. Richard Prestwitch</hi> Grocer and Confectio<g ref="char:EOLhyphen"/>ner in <hi>Long Acre,</hi> over against the Red Lion Inn</item>
+                  <item>
+                     <hi>Mr. Morgan</hi> a Grocer over against <hi>Southampton</hi> square in <hi>Holbourn</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Gilbert Wallbanke</hi> Stationer, near <hi>Grey</hi>'s Inn Gate</item>
+                  <item>Mr. <hi>James Long</hi> Distiller near <hi>Holbourn</hi> Conduit.</item>
+                  <item>
+                     <hi>Mr. Edw. Egclestone</hi> at the sign of the <hi>Peacock</hi> in <hi>Little Britain</hi> bookseller</item>
+                  <item>Mr. <hi>John Baker</hi> Confectioner at the three Kings near the Castle Tavern in <hi>Fleetstreet</hi>
+                  </item>
+                  <item>Mr, <hi>Tho. Noke Groeer,</hi> next door to the Crown Tavern in <hi>New street</hi> in <hi>Covent Garden</hi>
+                  </item>
+                  <item>Mr. <hi>Adam Livinstone</hi> Fruiterer at the Entrance of the Royal Exchange</item>
+                  <item>Mr. <hi>Giles</hi> a milliner without <hi>Aldgate</hi> near the Church</item>
+                  <item>Mr. <hi>Stephen Blisard</hi> Cutler, over against <hi>White Cross</hi> street without <hi>Cripplegate</hi>
+                  </item>
+                  <item>Mr. <hi>Tho Steedman</hi> at the <hi>Boars Head</hi> in <hi>Cateyton</hi> street</item>
+                  <item>Mr. <hi>Robert Harford</hi> at the Angel in <hi>Cornhill,</hi> bookseller</item>
+                  <item>
+                     <hi>Mr. John Ward</hi> at the pestle and mortar in <hi>Panton</hi> street in <hi>Leicester</hi> fields</item>
+                  <item>
+                     <hi>Mr. Rich. Aschew</hi> next door to the Cradle in St. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ans</hi> street</item>
+                  <item>
+                     <hi>Mr. Ranholt</hi> bookseller at the Kings Head over against the <hi>mewes</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. James Harper</hi> at the sign of the Harp in King's street, <hi>Westminster,</hi> Chandler</item>
+                  <item>
+                     <hi>Mr. Humphry</hi> at the black boy, cutler, next <hi>Whitehall</hi> by <hi>Charing cross</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Stephen Foster</hi> at the Hand and Bible upon <hi>London</hi>-bridge, bookseller</item>
+                  <item>
+                     <hi>Mr. Tho, Kendall</hi> at the <hi>Rose</hi> and <hi>Ball</hi> in <hi>Southwark</hi> next the <hi>Talbot</hi> Inn <hi>Powderman</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Markbam</hi> at the 7 stars over against St. <hi>Dunstans</hi> Church in <hi>Fleetstreet,</hi> and at his shop in <hi>Westminster</hi> Hall</item>
+                  <item>
+                     <hi>Mr. John Norton</hi> Grocer in the broad San<g ref="char:EOLhyphen"/>ctuary, <hi>Westminster</hi>
+                  </item>
+                  <item>
+                     <hi>Mrs. Cockman</hi> Chandler at the corner of <hi>Tuttle</hi> street, turning into <hi>Chappel</hi> street</item>
+                  <item>
+                     <hi>Mr. George Dawes</hi> bookseller over against <hi>Lincolns</hi> Inn-Gate in <hi>Chancery</hi> lane</item>
+                  <item>
+                     <hi>Mr. Mark Pardo</hi> at the sign of the black Raven, over against <hi>Bedford</hi> house in the <hi>Strand</hi> bookseller</item>
+                  <item>
+                     <hi>At Neds</hi> Coffee house in the <hi>Old Jury</hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Tho. Needham</hi> Oyl man in Milkstreet market</item>
+                  <item>
+                     <hi>Mr. Notts</hi> at the <hi>Queens Arms</hi> in the <hi>Pel<g ref="char:EOLhyphen"/>mell</hi> bookseller</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
